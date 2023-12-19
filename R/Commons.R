@@ -99,7 +99,7 @@ Commons <- setClass(
                                      extAllStudyInfoFile = '', 
                                      extAllIdInfoFile = '',
 
-                                     comboInfoFiel = '',
+                                     comboInfoFile = '',
                                      lastComboInfoFile = '',
 
                                      gapworkDir = '',
